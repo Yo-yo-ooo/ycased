@@ -1,7 +1,8 @@
-remote_theme: eliottvincent/bay
+theme: minimal-mistakes-jekyll
 header:
   pages:
     - name: Home
       slug: /     # <-- index.md
-    - name: Blog  # <-- blog.md
+    - name: Blog_a  # <-- blog.md
+      slug: /blog
     - name: Whatever  # <-- whatever.md
